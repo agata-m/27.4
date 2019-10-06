@@ -1,0 +1,23 @@
+{
+  "name": "27.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agata-m/27.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agata-m/27.4/issues"
+  },
+  "homepage": "https://github.com/agata-m/27.4#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
